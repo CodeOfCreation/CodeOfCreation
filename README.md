@@ -1,8 +1,6 @@
 <h1 align="left">⚡🌐Hello world, welcome to my GitHub! 👋💻</h1>
 
 ###
-<p align="left">Welcome!</p>
-
 ![](https://github-readme-stats.vercel.app/api?username=maha-dev-eloper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&height=200)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maha-dev-eloper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&height=250&width=300)<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=maha-dev-eloper&theme=tokyonight&hide_border=false&height=300&width=400&border=none)
 
@@ -18,6 +16,7 @@
 <h2 align="left">About me</h2>
 
 ###
+<p align="left">Welcome!</p>
 <p align="left">My name is  Mahadev Mallinath Shete,</p>
 <img align="right" height="268" src="https://camo.githubusercontent.com/30c101a3571fb16f5c62ddbb8275b28c4ee659dff0eb1d7d500664b71e7044df/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65642f65632f35372f65646563353762373065343936643633313063306261353333393039616362322e676966" alt="mygifs" />
 

@@ -1,9 +1,12 @@
 <h1 align="left">⚡🌐Hello world, welcome to my GitHub! 👋💻</h1>
 
 ###
+<p align="left">Welcome!</p>
 
-<p align="left">Welcome! <br>My name is  Mahadev Mallinath Shete,</p>
-
+![maha-dev-eloper's Stats](https://github-readme-stats.vercel.app/api?username=maha-dev-eloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![maha-dev-eloper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maha-dev-eloper&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<br>
+![maha-dev-eloper's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maha-dev-eloper&theme=tokyonight&hide_border=true)
 ###
 
 ###
@@ -12,7 +15,7 @@
 <h2 align="left">About me</h2>
 
 ###
-
+<p align="left">My name is  Mahadev Mallinath Shete,</p>
 <img align="right" height="268" src="https://camo.githubusercontent.com/30c101a3571fb16f5c62ddbb8275b28c4ee659dff0eb1d7d500664b71e7044df/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65642f65632f35372f65646563353762373065343936643633313063306261353333393039616362322e676966" alt="mygifs" />
 
 
@@ -57,6 +60,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />

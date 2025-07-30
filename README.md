@@ -5,22 +5,21 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=maha-dev-eloper&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 ###
 <h2 align="left">About me</h2>
-
 <p align="left">Welcome!</p>
+  <img align="right" height="295" src="https://camo.githubusercontent.com/30c101a3571fb16f5c62ddbb8275b28c4ee659dff0eb1d7d500664b71e7044df/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65642f65632f35372f65646563353762373065343936643633313063306261353333393039616362322e676966" alt="mygifs" />
 <p align="left">My name is  Mahadev Mallinath Shete,</p>
-<img align="right" height="268" src="https://camo.githubusercontent.com/30c101a3571fb16f5c62ddbb8275b28c4ee659dff0eb1d7d500664b71e7044df/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65642f65632f35372f65646563353762373065343936643633313063306261353333393039616362322e676966" alt="mygifs" />
-
-
-###
-
 <p align="left">I specialize in:<br>
- <br>
   🐍 Python – For data-rich backend applications, automation, and AI/ML development.<br>
   🤖 Machine Learning & AI – From prototyping to production-ready models.<br>
   ⚡ Rust – Building fast, reliable, and safe backend systems.<br>
-  🔁 Rust + Python Integration – Seamlessly combining speed with flexibility using PyO3, maturin, and FFI.<br><br>I'm driven by elegant solutions, smart systems, and code that performs under pressure.<br>Always exploring, always optimizing.</p>
+  🔁 Rust + Python Integration – Seamlessly combining speed with flexibility using PyO3, maturin, and FFI.
+ <br>
+ <br>I'm driven by elegant solutions, smart systems, and code that performs under pressure.
+ <br>Always exploring, always optimizing.</p>
 
 ###
 

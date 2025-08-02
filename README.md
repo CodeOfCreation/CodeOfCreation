@@ -1,6 +1,6 @@
 <h1 align="left">⚡🌐Hello world, welcome to my GitHub! 👋💻</h1>
 <p align="left">Welcome!</p>
-  <img align="right" height="275" src="https://camo.githubusercontent.com/a2854fe003d99099d6337cc897da2ad0eee760f447dfb300180cc457c7aec158/68747470733a2f2f73312e657a6769662e636f6d2f746d702f657a6769662d31316433613937313039663938642e676966" alt="mygifs" />
+  <img align="right" height="275" src="https://camo.githubusercontent.com/2b6829eab7978676ca97463b49769a5473af7ee97ba6b66cb5e354d9db09ca82/68747470733a2f2f692e706f7374696d672e63632f4b387433586a64362f6769666769746875622e676966" alt="mygifs" />
 <p align="left">My name is  Mahadev Mallinath Shete,</p>
 <p align="left">I specialize in:<br>
   🐍 Python – For data-rich backend applications, automation, and AI/ML development.<br>
